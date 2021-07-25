@@ -1,0 +1,4 @@
+baseURL = "https://rvdbreemen.github.io/"
+languageCode = "en-us"
+title = "Robert's hideout"
+theme = "ananke" 
